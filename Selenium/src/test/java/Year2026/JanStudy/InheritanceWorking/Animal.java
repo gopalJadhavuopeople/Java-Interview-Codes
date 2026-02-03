@@ -16,4 +16,6 @@ package Year2026.JanStudy.InheritanceWorking;
     public static void walk() {
         System.out.println("Animal is walking");
     }
+    //git added for this project
+     //added new branch first Branch
 }
